@@ -1,0 +1,4 @@
+Bundle-Name: Startup
+Bundle-SymbolicName: com.startup
+Bundle-Version: 1.0.0
+Export-Package: com.startup.constants
